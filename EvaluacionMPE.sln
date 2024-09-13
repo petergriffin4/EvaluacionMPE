@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluacionMPE", "EvaluacionMPE\EvaluacionMPE.csproj", "{CAA07A16-2196-4797-BF37-E44C50CBBDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA07A16-2196-4797-BF37-E44C50CBBDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA07A16-2196-4797-BF37-E44C50CBBDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA07A16-2196-4797-BF37-E44C50CBBDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA07A16-2196-4797-BF37-E44C50CBBDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E27BA48-A241-4B23-BB10-FD27C8066F4D}
+	EndGlobalSection
+EndGlobal
